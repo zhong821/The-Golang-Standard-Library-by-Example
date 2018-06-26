@@ -10,12 +10,22 @@ Golang标准库。对于程序员而言，标准库与语言本身同样重要�
 
 欢迎大家加入QQ群：192706294 《Go语言实现与标准库》交流群
 
-Go语言构建的 Go中文社区：[http://studygolang.com](http://studygolang.com)
+Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolang.com)
+
+## 阅读 ##
+
+为了更方便阅读，Go语言中文网搭建了阅读平台，可以更友好的在线阅读。
+
+[Go语言中文网——Go语言标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example)
+
+## 捐赠 ##
+
+如果您觉得本书对您有帮助，通过微信或支付宝捐赠作者，金额随意！
+
+**由于无法从支付方获取支付者信息，请在支付的留言备注功能中附上 Go语言中文网账户的昵称等信息，以便我们记录！**
 
 ## 目录 ##
-
-[阅读，从目录开始](preface.md)
-
+[目录](directory.md)
 ## 贡献者 ##
 
 [hikerell](https://github.com/hikerell)
